@@ -1,0 +1,22 @@
+{
+  "name": "physicalite",
+  "description": "Physics Jeopardy",
+  "main": "index.html",
+  "keywords": [
+    "physics",
+    "jeopardy"
+  ],
+  "authors": [
+    "Luke Bousfield"
+  ],
+  "license": "MIT",
+  "homepage": "http://superstufz.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

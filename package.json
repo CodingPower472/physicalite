@@ -1,0 +1,15 @@
+{
+  "name": "physicalite",
+  "version": "1.0.0",
+  "description": "Physics Jeopardy",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "physics",
+    "jeopardy"
+  ],
+  "author": "Luke Bousfield",
+  "license": "MIT"
+}
